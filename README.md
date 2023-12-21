@@ -15,5 +15,4 @@ me = {
 ```
 
 ### Want to connect with me...?
-**Instagram:** [iam_taruuu](https://www.instagram.com/iam_taruuu/)    
-  - Recently, i am more active in instagram....
+**Instagram:** [iam_taruuu](https://www.instagram.com/iam_taruuu/) 
