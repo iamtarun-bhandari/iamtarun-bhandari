@@ -1,5 +1,5 @@
 ## Hi, I am Tarun Bhandari
-> **I can write markdown***
+> **I can write markdown**
 
 ### About me in JS 😁
 
